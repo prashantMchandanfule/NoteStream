@@ -1,16 +1,14 @@
 
-# NoteShare - Share Your Notes!
+# NoteStream - Share Your Notes!
 
-NoteShare is a web application that allows users to share their notes with others and interact with fellow users through a built-in chat feature. With NoteShare, you can easily create, manage, and share your notes while **connecting with like-minded individuals**.
+NoteStream is a web application that allows users to share their notes with others and interact with fellow users through a built-in chat feature. With NoteShare, you can easily create, manage, and share your notes while **connecting with like-minded individuals**.
 
-![home page](https://github.com/ankitkr437/NoteSharing/blob/main/frontend/public/image/home.png)
 
 
 ## Features
 
 - **User Profiles:** Every user gets their own profile where they can view and manage their notes, as well as see their activity and engagement on the platform.
-  
-  ![profile page](https://github.com/ankitkr437/NoteSharing/blob/main/frontend/public/image/userprofile.png)
+
 
 
 - **Note Sharing:** Share your notes with the community which will help others to get more on that topic.
@@ -23,8 +21,6 @@ NoteShare is a web application that allows users to share their notes with other
 
 
 - **Chat with Other Users:** Engage in **real-time conversations** with other users through the built-in chat feature. Discuss topics, exchange knowledge, and build connections.
-  
-  ![chat page](https://github.com/ankitkr437/NoteSharing/blob/main/frontend/public/image/chat.png)
 
 
 - **Privacy and Security:** NoteShare prioritizes the **security and privacy** of its users. All user data is encrypted and kept confidential.
